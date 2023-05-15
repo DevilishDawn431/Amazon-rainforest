@@ -26,3 +26,5 @@ Also in order to install the os itself to the usb drive and boot it we need to j
 Part 2: what makes this stick tick?
 Well the heart of the fire tv stick (2nd generation) is a MediaTek MT8127D Quad-core ARM 1.3 GHz processor, it also has 1 gb of ram, and 8 gb of storage
 
+Part 3: installing os
+
