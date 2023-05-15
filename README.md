@@ -5,7 +5,7 @@ amazon rainforest is a linux operating system (os) that can be ran on a fire tv 
 
 
 
-TO-DO LIST:
+# TO-DO-list
 finish install guide,
 make os,
 eat 30 bowls of cereal in one day (joke because i LOVE cereal)
@@ -16,7 +16,7 @@ eat 30 bowls of cereal in one day (joke because i LOVE cereal)
 
 
 
-GUIDE TO INSTALL BELOW:
+# GUIDE TO INSTALL BELOW:
 
 Part 1: setup
 Well this setup may be hard for some users, but if you want to continue you may continue reading this, ok so to store the os on (because the firestick has only 8gb of storage) we need a usb drive, and along with that we need a otg adapter, i recommend this one: https://www.amazon.com/AuviPal-Powered-Adapter-Charging-Streaming/dp/B07TX8FY6W/ref=sr_1_2?crid=2BX3H3Z05ZLJ4&keywords=firestick+otg&qid=1684109073&sprefix=firestick+otg+%2Caps%2C983&sr=8-2
