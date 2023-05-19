@@ -26,6 +26,7 @@ also you will need a better case with a heatsink if your gonna install the os or
 
 Part 2: what makes this stick tick?
 Well the heart of the fire tv stick (2nd generation) is a MediaTek MT8127D Quad-core ARM 1.3 GHz processor, it also has 1 gb of ram, and 8 gb of storage
+(also please note that you may need to overclock your cpu for the best preformance, but remember to give it a form of cooling!)
 
 Part 3: installing os
 
